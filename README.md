@@ -8,7 +8,7 @@
         - I’m interested in art, writing, and video games.
       </p>
       <p>- I’m currently learning Unity, and C#.</p>
-      <p>- You can reachme through my email, (crimsonmask999@gmail.com)</p>
+      <p>- You can reach me through my email, (crimsonmask999@gmail.com)</p>
       <p>- Pronouns: She/Her</p>
     </td>
     <td>
