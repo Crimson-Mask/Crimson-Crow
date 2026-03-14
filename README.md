@@ -2,14 +2,14 @@
   <tr>
     <td width="50%">
       <h1>
-        👋 Hi, I’m @Crimson-Mask
+        Hi, I’m @Crimson-Mask
       </h1>
       <p>
-        - 👀 I’m interested in art, writing, and video games.
+        - I’m interested in art, writing, and video games.
       </p>
-      <p>- 🌱 I’m currently learning Java Script, CSS, HTML, and Godot.</p>
-      <p>- 📫 How to reach me is my email, (crimsonmask999@gmail.com)</p>
-      <p>- 😄 Pronouns: She/Her</p>
+      <p>- I’m currently learning Java Script, CSS, HTML, and Godot.</p>
+      <p>- You can reachme through my eamil, (crimsonmask999@gmail.com)</p>
+      <p>- Pronouns: She/Her</p>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/b45886fb-0644-4eab-b3d5-f402d99d0c0d" width="400" height="550">
