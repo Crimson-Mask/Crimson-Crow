@@ -7,8 +7,8 @@
       <p>
         - I’m interested in art, writing, and video games.
       </p>
-      <p>- I’m currently learning Java Script, CSS, HTML, and Godot.</p>
-      <p>- You can reachme through my eamil, (crimsonmask999@gmail.com)</p>
+      <p>- I’m currently learning Unity, and C#.</p>
+      <p>- You can reachme through my email, (crimsonmask999@gmail.com)</p>
       <p>- Pronouns: She/Her</p>
     </td>
     <td>
